@@ -17,6 +17,7 @@ Ultra96-V2
 1. Vivado 2020.1
 
 ![picture](Results/HLS仿真结果.png)
+![picture](Results/上板测试结果.png)
 
 ### Notice ###
 MobileNet模型还未完全实现，这里暂时仅提供软件端模型，待后续更新。
