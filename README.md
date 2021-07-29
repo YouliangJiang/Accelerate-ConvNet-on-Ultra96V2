@@ -1,7 +1,7 @@
 # 2021年Xilinx定制计算冬令营项目 #
 ## 基于Ultra96-V2平台加速一种卷积神经网络 ##
 ### 项目成员 ###
-姜有亮（Youliang Jiang, youliangj@zju.edu.cn）
+姜有亮（Youliang Jiang, youliangjiang118@gmail.com）
 ### 项目内容 ###
 本项目在Ultra96-V2平台上构建了一种卷积神经网络，通过对网络进行量化减少参数量与计算量，利用FPGA并行化、流水化的优势，实现了对卷积神经网络的加速推理，提高了检测的实时性。
 ### 主要工作 ###
